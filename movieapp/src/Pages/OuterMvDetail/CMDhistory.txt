@@ -1,0 +1,1001 @@
+wmt@root:~$ history
+  158  git fetch
+  159  git checkout -b html
+  160  git branch
+  161  git add .
+  162  git commit -m "created new branch" 
+  163  git push orign html
+  164  git push origin html
+  165  git clone https://github.com/ranchhodrajk/hello-world-repository.git
+  166  git add .
+  167  git commit -m "Table Information"
+  168  git push origin main
+  169  git branch
+  170  git status
+  171  git checkout -b html-tasks
+  172  git branch
+  173  git add .
+  174  git commit -m "Table Information Updated"
+  175  git push origin html-tasks
+  176  git add .
+  177  git commit -m "Table-Updated-Height"
+  178  git status
+  179  git push origin html-tasks
+  180  git add .
+  181  git commit -m "HTML Information"
+  182  git push origin html-tasks
+  183  code .
+  184  code .
+  185  code .
+  186  git add .
+  187  git commit -m "all html is in one folder"
+  188  git push origin html-tasks
+  189  git add .
+  190  dit commit -m "all html in one folder"
+  191  git commit -m "all html in one folder"
+  192  git push origin html-tasks
+  193  code .
+  194  code .
+  195  git branch
+  196  git init
+  197  git add .
+  198  git commit -m "css tasks"
+  199  git push origin master
+  200  git status
+  201  git add .
+  202  git commit -m "update folder stucture"
+  203  git push origin html-tasks
+  204  git branch
+  205  git checkout -b css-tasks
+  206  git branch
+  207  code .
+  208  code .
+  209  code .
+  210  git add .
+  211  git commit -m "Add Css Folder"
+  212  git push origin css-tasks
+  213  git branch
+  214  git add .
+  215  git commit -m "Updated Data"
+  216  git push origin css-tasks
+  217  git add .
+  218  git commit -m "Update Flex Task1 and Task2"
+  219  git push origin css-tasks
+  220  git add .
+  221  git commit -m "Update Task5-Picture"
+  222  git push origin css-tasks
+  223  git add .
+  224  git commit -m "Update info CSS"
+  225  git branch
+  226  git checkout -b javascript-tasks
+  227  git branch
+  228  git add .
+  229  git commit -m ""
+  230  git push origin javascript-tasks
+  231  git add .
+  232  git commit -m "Add Basic Tasks"
+  233  git push origin javascript-tasks
+  234  code .
+  235  git add .
+  236  git commit -m "add javascript tasks"
+  237  git push origin javascript-tasks
+  238  git add .
+  239  git commit -m "add Date Tasks"
+  240  git push origin javascript-tasks
+  241  git add .
+  242  git commit -m "add infoJavascript"
+  243  git push origin javascript-tasks
+  244  git add .
+  245  git commit -m "update infoJavascript"
+  246  git push origin javascript-tasks
+  247  git fetch
+  248  git pull origin main
+  249  git add .
+  250  git commit -m 
+  251  git commit -m "updated with main"
+  252  git push origin javascript-tasks
+  253  git checkout -b jQuery-Tasks
+  254  git branch
+  255  git checkout javascript-tasks
+  256  git branch
+  257  git add .
+  258  git commit -m "Add javascript trello tasks"
+  259  git push origin javascript-tasks
+  260  git checkout jQuery
+  261  git checkout jQuery-Tasks
+  262  git branch
+  263  git add .
+  264  git commit -m "Add jQuery Tasks"
+  265  git push origin jQuery-Tasks
+  266  git log
+  267  git fetch
+  268  git status
+  269  git add .
+  270  git commit -m "Update jQuery tasks"
+  271  git push origin jQuery-Tasks
+  272  git fatch
+  273  git fetch
+  274  git pull origin 
+  275  git push origin jQuery-Tasks
+  276  git add .
+  277  git commit -m "Add Ajax and Form Validation"
+  278  git push origin jQuery-Tasks
+  279  git add . 
+  280  git commit -m "Add More 3 Javascript tasks"
+  281  git push origin jQuery-Tasks
+  282  git fetch
+  283  git pull origin main
+  284  git fetch
+  285  git add .
+  286  git commit -m "R&D Task Add"
+  287  git push origin jQuery-Tasks
+  288  git pull origin main
+  289  lscpu
+  290  git checkout -b bootstrap-tasks
+  291  git branch
+  292  git add .
+  293  git commit -m "Start Bootstrap Task"
+  294  git push origin bootstrap-tasks
+  295  git add .
+  296  git commit -m "Complete bootstrap design"
+  297  git push origin bootstrap-tasks
+  298  git add .
+  299  git commit -m "Give final touch"
+  300  git push origin bootstrap-tasks
+  301  git add .
+  302  git commit -m "Done"
+  303  git push origin bootstrap-tasks
+  304  git add .
+  305  git commit -m "Add Task2"
+  306  git push origin bootstrap-tasks
+  307  git add .
+  308  git commit -m "Completed Task2"
+  309  git push origin bootstrap-tasks
+  310  git pull origin main
+  311  code ..
+  312  code .
+  313  git checkout -b node-tasks
+  314  git add.
+  315  git add. 
+  316  git commit -m "Starting node"
+  317  git pull origin main
+  318  git add. 
+  319  git add .
+  320  git commit -m "Starting node"
+  321  git push origin node-tasks
+  322  node --version
+  323  sudo apt install nodejs
+  324  node --version
+  325  cd workSpace/
+  326  cd Learning/
+  327  cd GIT
+  328  cd html5-demo/Node\ Tasks/
+  329  node app.js
+  330  clear
+  331  node app.js
+  332  clear
+  333  node app.js
+  334  npm -v
+  335  sudo apt install npm
+  336  npm -v
+  337  node --version
+  338  npm list
+  339  npm install lodash --save
+  340  node -v
+  341  git init
+  342  git status'
+  343  git status
+  344  git --version
+  345  git config --global--list
+  346  git config --global --list
+  347  git branch
+  348  git branch -a
+  349  git branch [-a]
+  350  git branch -a
+  351  git branch second-branch
+  352  git checkout master
+  353  git branch
+  354  git add .
+  355  git commit -m "First commit"
+  356  git push origin fist-branch 
+  357  git remote add origin https://gitlab.com/ranchhodrajk/my-first-gitlab.git
+  358  git branch -M main
+  359  git branch
+  360  git checkout -b first-branch
+  361  git branch
+  362  git add .
+  363  git commit -m "First commit"
+  364  git add .
+  365  git commit -m "First commit"
+  366  git push origin first-branch  
+  367  git remote add origin https://gitlab.com/ranchhodrajk/test-gitlab-1.git
+  368  git branch -M main
+  369  git branch -M master
+  370  git branch
+  371  git init
+  372  code .
+  373  git remote add origin https://gitlab.com/ranchhodrajk/test-gitlab-1.git
+  374  git branch -M main
+  375  git add .
+  376  git commit -m "changes in readme"
+  377  git push origin maind
+  378  git push origin main
+  379  code .
+  380  git init
+  381  git remote add origin https://gitlab.com/ranchhodrajk/test-gitlab-1.git
+  382  git branch -M main
+  383  cd ..
+  384  git clone https://gitlab.com/ranchhodrajk/react_demo.git
+  385  cd react_demo/
+  386  code .
+  387  node
+  388  node fsModule.js
+  389  cd Node\ Tasks/
+  390  node fsModule.js
+  391  node osModule.js 
+  392  cd..
+  393  cd .
+  394  cd ..
+  395  git add .
+  396  git commit -m "Add file module"
+  397  git push origin node-tasks
+  398  mkdir webpack_demo
+  399  cd Node\ Tasks/
+  400  mkdir webpack_demo
+  401  cd webpack_demo/
+  402  npm init
+  403  npm init -y
+  404  npm install --save-dev webpack webpack-cli
+  405  npm run build
+  406  cd ..
+  407  cd..
+  408  cd ..
+  409  cd workSpace/Learning/GIT/html5-demo/Node\ Tasks/
+  410  mkdir webpack_demo
+  411  cd webpack_demo/
+  412  npm init -y
+  413  npm i webpack webpack-cli --save
+  414  npm run build
+  415  npm install mini-css-extract-plugin css-loader --save-dev
+  416  cd..
+  417  cd ..
+  418  git add.
+  419  git add .
+  420  git push origin node-tasks
+  421  npm run build
+  422  cd webpack_demo/
+  423  npm run build
+  424  npm uninstall mini-css-extract-plugin css-loader --save-dev
+  425  npm run build
+  426  clr
+  427  clear
+  428  npm run build
+  429  git add .
+  430  git commite -m "Webpack Done"
+  431  git commit -m "Webpack Done"
+  432  git push origin node-tasks 
+  433  code .
+  434  git status
+  435  git checkout -b fist-branch
+  436  git branch
+  437  git add .
+  438  git commit -m "Second commit"
+  439  git push origin fist-branch
+  440  https://gitlab.com/ranchhodrajk/test-2.git
+  441  code .
+  442  git init
+  443  git remote add origin https://gitlab.com/ranchhodrajk/test-2.git
+  444  git branch -M main
+  445  https://gitlab.com/ranchhodrajk/test-2.git
+  446  git https://gitlab.com/ranchhodrajk/test-2.git
+  447  code .
+  448  git clone https://gitlab.com/ranchhodrajk/test-2.git
+  449  git branch
+  450  git fatch
+  451  git fetch
+  452  git branch
+  453  git branch -M main
+  454  git checkout -b test-1
+  455  git branch
+  456  git init
+  457  git remote add origin https://gitlab.com/ranchhodrajk/learn-1.git
+  458  git checkout -b test
+  459  git branch -M main
+  460  git init
+  461  git remote add origin https://gitlab.com/ranchhodrajk/learn-2-2.git
+  462  git checkout -b test1
+  463  git add .
+  464  git commit -m "Test add"
+  465  git push origin test1
+  466  git branch
+  467  git push origin test1
+  468  code .
+  469  code .
+  470  git init
+  471  git remote add origin https://gitlab.com/ranchhodrajk/learn-1.git
+  472  git branch -M main
+  473  git branch
+  474  code .
+  475  git init
+  476  git remote add origin https://gitlab.com/ranchhodrajk/learn-3.git
+  477  git branch -M main
+  478  git checkout -b my1
+  479  git add.
+  480  git add .
+  481  git commit -m "My add"
+  482  git branch
+  483  git push origin my1
+  484  git checkout my1
+  485  git init
+  486  git remote add origin https://gitlab.com/ranchhodrajk/react-demo.git
+  487  git checkout -b react-practice
+  488  git branch
+  489  git add .
+  490  git commit -m "React Practice Start"
+  491  git branch
+  492  git push origin react-practice 
+  493  git pull origin main
+  494  git add .
+  495  git commit -m "ES 6 Start"
+  496  git branch
+  497  git push origin react-practice 
+  498  git add .
+  499  git commit -m "Add Es6 Consepts"
+  500  git push origin react-practice 
+  501  git commit -m "Complete Es6 Consepts"
+  502  git push origin react-practice 
+  503  git push origin react-practice
+  504  git push origin react-practice 
+  505  git fetch
+  506  git add .
+  507  git commit -m "Complete Es6 Consepts"
+  508  git fetch
+  509  git push origin react-practice 
+  510  git status
+  511  code .
+  512  node -v
+  513  npm cache clean -f
+  514  node -v
+  515  sudo npm install -g n
+  516  sudo n stable
+  517  node -v
+  518  new
+  519  node -v
+  520  cd Extra\ Practice/
+  521  npm init -y
+  522  clear
+  523  npm init -y
+  524  <button onClick={() => this.setState({ liked: true })}>
+  525  npm install babel-cli@6 babel-preset-react-app@3
+  526  npm uninstall babel-cli@6 babel-preset-react-app@3
+  527  cd Extra\ Practice/
+  528  npm init -y
+  529  cd ..
+  530  cd ExtraPractice/
+  531  npm init -y
+  532  npm uninstall babel-cli@6 babel-preset-react-app@3
+  533  npm install babel-cli@6 babel-preset-react-app@3
+  534  npx babel --watch src --out-dir . --presets react-app/prod
+  535  node -v
+  536  npm -v
+  537  npx create-react-app my-app
+  538  npx create-react-app FirstApp
+  539  npx create-react-app first-app
+  540  cd my-app
+  541  cd first-app
+  542  npm start
+  543  cd..
+  544  cd ..
+  545  git add .
+  546  git commit -m "Complete Pure React Tasks"
+  547  git branch
+  548  git push origin react-practice 
+  549  git add .
+  550  git commit -m "Complete Pure React Tasks"
+  551  git push origin react-practice 
+  552  git add .
+  553  git commit -m "Complete Pure React Task"
+  554  git push origin react-practice 
+  555  git add .
+  556  git commit -m "Complete Pure React Tasks"
+  557  git push origin react-practice 
+  558  git add .
+  559  git commit -m "Complete Pure React Tasks"
+  560  git push origin react-practice 
+  561  git add .
+  562  git commit -m "Complete Pure React Task"
+  563  git push origin react-practice 
+  564  git add .
+  565  git push origin react-practice 
+  566  git add .
+  567  git commit -m "Complete Pure React Tasks"
+  568  git push origin react-practice 
+  569  cd first-app/
+  570  npm start
+  571  cd..
+  572  cd ..
+  573  git add .
+  574  git commit -m "Cover till 6 point"
+  575  git push origin react-practice 
+  576  cd first-app/
+  577  npm start
+  578  sudo apt-get install vnc4server
+  579  cd first-app/
+  580  npm start
+  581  git add .
+  582  cd ..
+  583  git add .
+  584  git commit -m "Add Destructuring File"
+  585  git push origin react-practice 
+  586  cd first-app/
+  587  npm start
+  588  cd first-app/
+  589  npm start
+  590  cd ..
+  591  git add .
+  592  git commit -m "Complete Conditional Rendering"
+  593  git push origin react-practice 
+  594  cd first-app/
+  595  npm start
+  596  cd first-app/
+  597  npm start
+  598  cd ..
+  599  git .
+  600  git add .
+  601  git commit -m "Add Card Task In React"
+  602  git push origin react-practice 
+  603  git add .
+  604  git commit -m "Add Card Task In React"
+  605  git push origin react-practice 
+  606  git remote set-url origin
+  607  git push origin react-practice 
+  608  git add .
+  609  git commit -m "Add Card Task In React"
+  610  git push origin react-practice 
+  611  git remote -v
+  612  git remote set-url origin git@gitlab.com:ranchhodrajk/react-demo.git
+  613  git remote -v
+  614  git push origin react-practice 
+  615  git add .
+  616  git commit -m "Add Card Task In React"
+  617  git push origin react-practice 
+  618  git add .
+  619  git commit -m "Add Card Task In React"
+  620  git push origin react-practice 
+  621  git checkout main
+  622  git status
+  623  git branch
+  624  git add . 
+  625  git commit -m "Add Card Task In React"
+  626  git clone git@gitlab.com:ranchhodrajk/react-demo.git
+  627  code .
+  628  ssh-keygen -t rsa -C "ranchhodrajk@webmob.tech"
+  629  cat ~/.ssh/id_rsa.pub
+  630  $ ssh-keygen -t ed25519 -C "ranchhodrajk@webmob.tech"
+  631  cat ~/.ssh/id_ed25519.pub
+  632  git remote set-url origin
+  633  git pull origin
+  634  cd ExtraPractice/
+  635  cd PureReact/
+  636  cd ..
+  637  git checkout react-practice 
+  638  git branch
+  639  git add.
+  640  git add .
+  641  git commit -m "Remove Nodemodule"
+  642  git push origin react-practice 
+  643  cd first-app/
+  644  npm start
+  645  npm install
+  646  npm start 
+  647  cd..
+  648  cd ..
+  649  git add .
+  650  git commit -m "Remove node module"
+  651  git push origin react-practice 
+  652  git add .
+  653  git commit -m "Remove node modules"
+  654  git push origin react-practice 
+  655  clear
+  656  cd first-app/
+  657  npm start
+  658  code .
+  659  cd first-app/
+  660  npm start
+  661  cd ..
+  662  git add .
+  663  git commit -m "Add Registration and Login Form with validation"
+  664  git push origin react-practice 
+  665  git clone git@gitlab.com:ranchhodrajk/react-demo.git
+  666  code .
+  667  cd first-app/
+  668  npm start
+  669  clear
+  670  npm start
+  671  cd ..
+  672  git add .
+  673  git commit -m "Toggle registration and login form"
+  674  git push origin react-practice 
+  675  npx create-react-app Card-App
+  676  npx create-react-app card-app
+  677  cd card-app/
+  678  npm start
+  679  git add .
+  680  git commit -m "Add Card-app"
+  681  git push origin react-practice 
+  682  cd ..
+  683  git 
+  684  git status
+  685  git checkout main
+  686  git branch
+  687  git pull origin main 
+  688  git checkout react-practice 
+  689  git branch
+  690  git add .
+  691  git commit -m "Add Card-app"
+  692  git push origin react-practice 
+  693  cd card-app/
+  694  npm start
+  695  cd first-app/
+  696  npm start
+  697  cd ..
+  698  cd first-app/
+  699  npm start
+  700  cd ..
+  701  cd card-app/
+  702  npm start
+  703  cd ..
+  704  cd first-app/
+  705  npm start
+  706  npm install node-modules
+  707  npm start
+  708  cd card-app/
+  709  npm start
+  710  cd ..
+  711  cd first-app/
+  712  npm start
+  713  npm install react-router-dom@6
+  714  npm start
+  715  git add .
+  716  git commit -m "Use Readct-Router-Dom in first-app"
+  717  git push origin react-practice 
+  718  cd ..
+  719  cd card-app/
+  720  git add .
+  721  git commit -m "Normal change to check git"
+  722  git push origin react-practice 
+  723  npm start
+  724  npm start
+  725  cd first-app/
+  726  npm start
+  727  cd ..
+  728  cd card-app/
+  729  npm start
+  730  cd ..
+  731  cd first-app/
+  732  npm start
+  733  cd first-app/
+  734  npm start
+  735  cd ..
+  736  git add .
+  737  git commit -m "Complete hooks with demo"
+  738  git add .
+  739  git commit -m "Complete hooks with demo"
+  740  git push origin react-practice 
+  741  cd first-app/
+  742  npm start
+  743  git add .
+  744  git commit -m "Add Context Demo"
+  745  git push origin react-practice 
+  746  npm start
+  747  cd first-app/
+  748  npm start
+  749  git add .
+  750  git commit -m 'Validation with Custom Hook'
+  751  git push origin react-practice 
+  752  npm start
+  753  git init
+  754  code ..
+  755  code .
+  756  npx create-react-app one-touch
+  757  cd one-touch
+  758  npm start
+  759  git remote add origin https://gitlab.com/ranchhodrajk/one-touch-app.git
+  760  git branch -M main
+  761  git branch
+  762  git pull
+  763  git fetch
+  764  git branch
+  765  git branch -M main
+  766  git origin
+  767  git init
+  768  git remote add origin https://gitlab.com/ranchhodrajk/one-touch-app.git
+  769  git branch -M main
+  770  git pull origin main
+  771  x-special/nautilus-clipboard
+  772  copy
+  773  file:///home/wmt/workSpace/Learning/GIT/one-touch-app
+  774  git branch -M main
+  775  git branch
+  776  git add .
+  777  git commit -m 'Start new project'
+  778  git add .
+  779  git commit -m 'Start new project'
+  780  git add .
+  781  git commit -m 'Start new project'
+  782  git checkout -b login 
+  783  git branch
+  784  git add .
+  785  git commit -m 'Start new project'
+  786  git push origin login 
+  787  git
+  788  git status
+  789  git
+  790  git status
+  791  git origin
+  792  git add .
+  793  git remote add origin https://gitlab.com/ranchhodrajk/one-touch-app.git
+  794  git branch -M main
+  795  git pull origin main
+  796  git branch -M main
+  797  git branch
+  798  git commit -m 'Start new project'
+  799  git status
+  800  git add .
+  801  git commit -m 'start new project'
+  802  code .
+  803  git init
+  804  git add .
+  805  git status
+  806  git commit -m 'Start New project'
+  807  git remote add origin https://gitlab.com/ranchhodrajk/one-touch-app.git
+  808  git branch -M main
+  809  git push origin main
+  810  git pull origin main
+  811  git push origin main
+  812  git push -f origin main
+  813  git status
+  814  code .
+  815  git remote -v
+  816  git init
+  817  git remote -v
+  818  code .
+  819  git remote -v
+  820  git clone git@gitlab.com:ranchhodrajk/demo-repo.git
+  821  code .
+  822  git status
+  823  git add .
+  824  git commit -m 
+  825  git commit -m "test repo commit"
+  826  git push origin main
+  827  git status
+  828  git init
+  829  git clone git@gitlab.com:ranchhodrajk/one-touch-app.git
+  830  git@gitlab.com:ranchhodrajk/one-touch-app.git
+  831  git clone git@gitlab.com:ranchhodrajk/one-touch-app.git
+  832  git init
+  833  git add .
+  834  git commit -m 'Test'
+  835  git checkout -b test
+  836  git add .
+  837  git commit -m 'Test'
+  838  git push origin test 
+  839  code .
+  840  git clone git@gitlab.com:ranchhodrajk/one-touch-app.git
+  841  code .
+  842  git add .
+  843  git commit -m 'Design Login and Registration Form'
+  844  git push origin react-practice 
+  845  npm start
+  846  npx create-react-app one-touch
+  847  cd one-touch
+  848  npm start
+  849  git checkout -b login
+  850  git branch
+  851  git add .
+  852  git commit -m 'Start new project'
+  853  git push origin login
+  854  npm start
+  855  git add.
+  856  git add .
+  857  git commit -m 'Design Login and Registration Page'
+  858  git push origin login 
+  859  npm start
+  860  code.
+  861  code .
+  862  cd one-touch/
+  863  npm start
+  864  code .
+  865  git clone git@gitlab.com:ranchhodrajk/react-bootstrap-demo.git
+  866  git clone git@gitlab.com:ranchhodrajk/react-bootstrap-demo.git
+  867  code .
+  868  git add .
+  869  git commit -m "Design AboutUs and ContactUS pages"
+  870  git push origin login 
+  871  cd one-touch/
+  872  npm start
+  873  git add .
+  874  git commit -m 'Modified footer'
+  875  git push origin login
+  876  npx create-react-app react-bootstrap-demo
+  877  cd react-bootstrap-demo/
+  878  npm start
+  879  cd ..
+  880  git branch
+  881  git checkout -b practice
+  882  git branch
+  883  git add .
+  884  git commit -m 'start practice'
+  885  git push origin practice 
+  886  cd react-bootstrap-demo/
+  887  npm start
+  888  cd ..
+  889  cd react-bootstrap-demo/
+  890  npm install react-bootstrap bootstrap@5.1.3 --save
+  891  npm start
+  892  code .
+  893  npm start
+  894  cd react-bootstrap-demo/
+  895  npm start
+  896  npm install react-router-dom@6 --save
+  897  cd ..
+  898  git add .
+  899  git commit -m 'Design Profile page with reactBootstrap'
+  900  git push origin practice 
+  901  cd react-bootstrap-demo/
+  902  npm start
+  903  cd ..
+  904  git add .
+  905  git commit -m "Add Notification Page And Change Password Page"
+  906  git push origin practice 
+  907  code .
+  908  cd react-bootstrap-demo/
+  909  npm start
+  910  code .
+  911  cd one-touch/
+  912  npm start
+  913  npm start
+  914  git add .
+  915  git commit -m 'Complete context and Local storage'
+  916  git push origin react-practice 
+  917  npm start
+  918  code .
+  919  cd one-touch/
+  920  npm start
+  921  npm install react-router-dom@6 --save
+  922  cd one-touch/
+  923  npm start
+  924  cd ..
+  925  git add .
+  926  git commit -m 'Complete single user login & registration'
+  927  git push origin login 
+  928  cd one-touch/
+  929  npm start
+  930  npm start
+  931  code .
+  932  cd one-touch/
+  933  npm start
+  934  git status
+  935  git add .
+  936  git commit -m 'Complete Multiple user login with local storage and validation'
+  937  git push origin login 
+  938  code .
+  939  cd react-bootstrap-demo/
+  940  npm start
+  941  npm install axios
+  942  npm start
+  943  npm start
+  944  npm install axios
+  945  npm start
+  946  code .
+  947  cd react-bootstrap-demo/
+  948  npm start
+  949  git add .
+  950  git commit -m 'Create user card and user detail card with api'
+  951  git push origin practice 
+  952  npm start
+  953  code .
+  954  cd react-bootstrap-demo/
+  955  npm start
+  956  npm i sass-loader node-sass — save
+  957  npm i sass-loader node-sass --save
+  958  npm start
+  959  git add .
+  960  git commit -m 'Complete Scss Demo'
+  961  git push origin react-practice 
+  962  git clone git@gitlab.com:ranchhodrajk/redux-demo.git
+  963  curl https://ksync.s3.ap-south-1.amazonaws.com/setup.sh | sudo bash
+  964  git checkout -b redux-demo
+  965  git add .
+  966  git commit -m 'First commit'
+  967  git push origin redux-demo 
+  968  npm init --yes
+  969  npm install redux
+  970  node index
+  971  code .
+  972  npx create-react-app reactToolKit
+  973  npx create-react-app react-tool-kit
+  974  cd react-tool-kit/
+  975  npm start
+  976  npm install react-redux @reduxjs/toolkit
+  977  npm start
+  978  code .
+  979  npx create-react-app redux-toolkit
+  980  cd redux-toolkit/
+  981  npm start
+  982  npm install @reduxjs/toolkit react-redux
+  983  npm start
+  984  code .
+  985  cd redux-toolkit/
+  986  npm start
+  987  cd ..
+  988  git add .
+  989  git commit -m 'Complete redux-toolkit'
+  990  git push origin redux-demo 
+  991  npx create-react-app react-redux
+  992  cd react-redux/
+  993  npm start
+  994  import './App.css';
+  995  npm install react-redux
+  996  npm start
+  997  npm install redux
+  998  npm start
+  999  npm i redux-devtools-extension
+ 1000  npm start
+ 1001  npm start
+ 1002  npm i
+ 1003  npm start
+ 1004  curl https://ksync.s3.ap-south-1.amazonaws.com/setup.sh | sudo bash
+ 1005  sudo apt-get install jq
+ 1006  curl https://ksync.s3.ap-south-1.amazonaws.com/setup.sh | sudo bash
+ 1007  ksync
+ 1008  ksync update
+ 1009  ksync setup
+ 1010  npx create-react-app react-redux
+ 1011  cd react-redux/
+ 1012  npm start
+ 1013  cd react-redux/
+ 1014  npm i redux react-redux redux-thunk
+ 1015  npm start
+ 1016  cod e.
+ 1017  code .
+ 1018  npm start
+ 1019  cd react-redu
+ 1020  cd react-redux/
+ 1021  npm start
+ 1022  cd..
+ 1023  cd ..
+ 1024  cd redux-thunk/
+ 1025  npm start
+ 1026  cd ..
+ 1027  npx create-react-app react-redux
+ 1028  cd react-redux/
+ 1029  npm start
+ 1030  npm install redux
+ 1031  npm install react-redux
+ 1032  npm start
+ 1033  cd ..
+ 1034  npx create-react-app redux-thunk
+ 1035  cd redux-thunk
+ 1036  npm start
+ 1037  npm install redux react-redux redux-thunk
+ 1038  npm start
+ 1039  cd ..
+ 1040  npx create-react-app redux-saga
+ 1041  cd redux-saga
+ 1042  npm start
+ 1043  npm i redux-saga redux react-redux
+ 1044  npm start
+ 1045  cd ..
+ 1046  git add .
+ 1047  git commit -m 'Complete all redux'
+ 1048  git push origin redux-demo 
+ 1049  code .
+ 1050  npm start
+ 1051  code .
+ 1052  git clone git@gitlab.com:ranchhodrajk/seeshow.git
+ 1053  cod e.
+ 1054  code .
+ 1055  code .
+ 1056  npx create-react-app seeShow
+ 1057  npx create-react-app see-show
+ 1058  cd see-show
+ 1059  npm start
+ 1060  git checkout -b seeShow
+ 1061  git add .
+ 1062  git commit -m 'My first commit'
+ 1063  git push origin seeShow 
+ 1064  cd ..
+ 1065  git add .
+ 1066  git commit -m 'My first commit'
+ 1067  git push origin seeShow 
+ 1068  cd see-show/
+ 1069  npm start
+ 1070  npm install react-bootstrap bootstrap@5.1.3
+ 1071  npm start
+ 1072  npm i sass-loader node-sass --save
+ 1073  npm start
+ 1074  npm start
+ 1075  code .
+ 1076  npm start
+ 1077  git add .
+ 1078  git commit -m 'Complete Login and Registration Design'
+ 1079  git push origin seeShow 
+ 1080  git add .
+ 1081  git commit -m 'Complete Login and Registration Design'
+ 1082  git push origin seeShow 
+ 1083  npm install axios
+ 1084  npm start
+ 1085  npm install react-slick --save
+ 1086  npm install slick-carousel --save
+ 1087  npm start
+ 1088  git add .
+ 1089  git commit -m 'Create Slider'
+ 1090  git push origin seeShow 
+ 1091  npm start
+ 1092  git add .
+ 1093  git commit -m 'before formating'
+ 1094  git push origin practice 
+ 1095  git add .
+ 1096  git commit -m 'before formating'
+ 1097  git push origin login 
+ 1098  code .
+ 1099  code .
+ 1100  git add .
+ 1101  git commit -m 'before formating'
+ 1102  git push origin react-practice 
+ 1103  git add .
+ 1104  git commit -m 'before formating'
+ 1105  git push origin redux-demo 
+ 1106  code .
+ 1107  git add .
+ 1108  git commit -m 'Add redux in project'
+ 1109  git add .
+ 1110  git commit -m 'Add redux in project'
+ 1111  git push origin seeShow 
+ 1112  git add .
+ 1113  git commit -m 'Add redux in project'
+ 1114  git push origin seeShow 
+ 1115  git add .
+ 1116  git commit -m 'Add redux in project'
+ 1117  git push origin seeShow 
+ 1118  cd see-show/
+ 1119  npm start
+ 1120  git add .
+ 1121  git commit -m 'Complete registration form with validation'
+ 1122  git push origin seeShow 
+ 1123  npm start
+ 1124  git add .
+ 1125  git commit -m 'Complete User Login flow'
+ 1126  git push origin seeShow 
+ 1127  code .
+ 1128  npm start
+ 1129  npm install react-move
+ 1130  npm start
+ 1131  npm install d3-ease
+ 1132  npm start
+ 1133  cd .
+ 1134  cd..
+ 1135  cd ..
+ 1136  git add .
+ 1137  git commit -m 'Continue On Home Design'
+ 1138  git push origin seeShow 
+ 1139  cd see-show/
+ 1140  npm start
+ 1141  npm start
+ 1142  code .
+ 1143  git add .
+ 1144  git commit -m 'More design in home page'
+ 1145  git push origin seeShow 
+ 1146  code .
+ 1147  npm start
+ 1148  git add .
+ 1149  git commit -m 'Start Movie Detail Page'
+ 1150  git push origin seeShow 
+ 1151  npm start
+ 1152  git add .
+ 1153  git commit -m 'Complete Movie Detail Page'
+ 1154  git push origin seeShow 
+ 1155  code .
+ 1156  npm start
+ 1157  history

@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    // color: white;
+}
+*::before, *::after {
+    box-sizing: border-box;
+}
+p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}
+.my-bg-blue{
+    background-color: rgb(20, 20, 20);
+}
+// .my-bg-light-blue{
+//     background-color: #f0f0f0;
+// }
+.my-bg-red{
+    background-color: red;
+}
+.text-red{
+    color: red;
+}
+.text-blue{
+    color: #4498c7;
+}
+.btn-transfer{
+    background: transparent;
+    border: none;
+}
+.btn-transfer:hover{
+    opacity: 0.7;
+}
+.my-big-font{
+    font-size: 64px;
+    font-weight:bolder;
+}
+.my-letter-space{
+    word-spacing: 5px;
+    letter-spacing: 4px;
+}
+.my-custom-a{
+    text-decoration: none;
+}
+.my-custom-a:hover{
+    color:crimson;
+}

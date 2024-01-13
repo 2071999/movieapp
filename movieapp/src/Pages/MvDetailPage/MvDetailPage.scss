@@ -1,0 +1,42 @@
+.my-side-img{
+    background-repeat: no-repeat;
+    // background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    border-radius: 8px;
+}
+.mainMvDetail{
+    position: relative;
+    // z-index: 9999;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.re{
+    position: relative;
+    z-index: 999;
+}
+.ab{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.9;
+}
+.my-fs-6{
+    font-size: 15px;
+}
+.my-trailer-btn:hover{
+    opacity: 0.8;
+}
+.my-fw-lighter{
+    font-weight:lighter;
+    font-style: italic;
+    color: rgb(161, 161, 161);
+}
+.my-fs-b{
+    font-size: 15px;
+}
+

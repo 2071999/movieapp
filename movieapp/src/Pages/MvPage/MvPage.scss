@@ -1,0 +1,99 @@
+.mainMvPage{
+    min-height: 300vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    // background-position: center;
+    background-size: cover;
+}
+.imp-Header{
+    background-color: aqua !important;
+}
+
+
+
+content {
+    width: 80%;
+    padding: 20px;
+    margin: 0 auto;
+    padding: 0 60px 0 0;
+    border-radius: 8px;
+  }
+  
+  .centerplease {
+    margin: 0 auto;
+    max-width: 270px;
+    font-size: 40px;
+  }
+  
+  .question {
+    position: relative;
+    background: #7a7a7a5d;
+    margin: 0;
+    padding: 10px 10px 10px 16px;
+    display: block;
+    width:100%;
+    cursor: pointer;
+    border-radius: 6px ;
+  }
+  
+  .answers {
+    background: #7a7a7a42;
+    padding: 0px 15px;
+    max-height: 0;
+    overflow: hidden;
+    position: relative;
+    top: 5px;
+    opacity: 0;
+    -webkit-transition: .7s ease;
+    -moz-transition: .7s ease;
+    -o-transition: .7s ease;
+    transition: .7s ease;
+    border-radius: 6px ;
+    // border-radius: 0px 0px 6px 6px ;
+
+  }
+  
+  .questions:checked ~ .answers{
+    max-height: 500px;
+    opacity: 1;
+    padding: 15px;
+  }
+  
+  .plus {
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 256px;
+    // z-index: 5;
+    font-size: 2em;
+    line-height: 100%;
+    -webkit-user-select: none;    
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    -o-transition: .3s ease;
+    transition: .3s ease;
+  }
+  
+  .questions:checked ~ .plus {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  
+  .questions {
+    display: none;
+  }
+  .form-check-input.is-valid, .was-validated .form-check-input:valid {
+    border:none;
+}
+.form-check-input.is-valid:checked, .was-validated .form-check-input:valid {
+  background-color: #f74424;
+  outline: none;
+}
+.my-load-more:hover{
+  opacity: 0.7;
+}

@@ -1,0 +1,54 @@
+.pro-thin{
+    height: 4px;
+}
+.mv-img{
+    position: relative;
+    height: 310px;
+    border-radius: 8px;
+}
+.mv-img:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+.roundProgress{
+    position: absolute;
+    left: 8%;
+    top:286px;
+    background-color: rgb(2, 0, 10);
+    border-radius: 100%;
+}
+.addToFav{
+    position: absolute;
+    // top: 5px;
+    // left: 74%;
+    right: 8%;
+    top: 286px;
+    background-color: rgba(128, 128, 128, 0.144);
+    height: 45px;
+    width: 45px;
+    border-radius: 100%;
+    border: none;
+}
+.addToFav:hover{
+    background-color: rgba(128, 128, 128, 0.308);
+}
+    // .rating-bag{
+    //     height: 36px;
+    //     width: 36px;
+    //     border: 2px solid rgb(0, 0, 0);
+    //     border-radius: 100%;
+    // }
+.my-fs{
+    font-size: 14px;
+}
+.my-a{
+    text-decoration: none;
+    color: white;
+}
+.my-a:hover{
+    color: #4498c7;
+}
+.card-min-height{
+    min-height: 164px;
+}
+

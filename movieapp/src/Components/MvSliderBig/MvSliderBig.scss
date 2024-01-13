@@ -1,0 +1,14 @@
+.mvSliderBig{
+    min-height: 70vh;
+    min-width: 50vw;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    // background-attachment: fixed;
+    background-position: center center;
+    // background-size: cover;
+    transition: 0.2s ease-in-out;
+}
+.mvSliderBig:hover{
+    cursor: pointer;
+    background-size:120%;
+}
